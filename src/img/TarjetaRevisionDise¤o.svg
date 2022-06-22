@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="257" height="273" viewBox="0 0 257 273">
+  <defs>
+    <filter id="surface" x="0" y="0" width="257" height="273" filterUnits="userSpaceOnUse">
+      <feOffset dx="8" dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="12" result="blur"/>
+      <feFlood flood-color="#090e14" flood-opacity="0.4"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Grupo_16140" data-name="Grupo 16140" transform="translate(-696 -862)">
+    <g id="feature_00" transform="translate(723.86 890)">
+      <g transform="matrix(1, 0, 0, 1, -27.86, -28)" filter="url(#surface)">
+        <rect id="surface-2" data-name="surface" width="185" height="201" rx="12" transform="translate(28 28)" fill="#fff"/>
+      </g>
+    </g>
+    <text id="_solicitudes_convencionales" data-name=" solicitudes convencionales" transform="translate(759.5 899.03)" fill="#86878b" font-size="9" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="9" xml:space="preserve"> solicitudes convencionales</tspan></text>
+    <text id="Revisión_del_Diseño" data-name="Revisión del Diseño" transform="translate(780 918.03)" fill="#333542" font-size="18" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="19">Revisión del </tspan><tspan x="0" y="38">Diseño</tspan></text>
+    <text id="Es_la_revisión_del_proyecto_eléctrico_donde_están_contenidas_las_memorias_de_cálculo_y_planos_eléctricos_del_proyecto." data-name="Es la revisión del proyecto eléctrico donde están contenidas las memorias de cálculo y planos eléctricos del proyecto." transform="translate(732.986 966.678)" fill="#707178" font-size="13" font-family="Roboto-Regular, Roboto"><tspan x="8.504" y="14">Es la revisión del proyecto </tspan><tspan x="21.31" y="32">eléctrico donde están </tspan><tspan x="1.925" y="50">contenidas las memorias de </tspan><tspan x="7.193" y="68">cálculo y planos eléctricos </tspan><tspan x="46.33" y="86">del proyecto.</tspan></text>
+    <line id="Línea_77" data-name="Línea 77" x2="140.209" transform="translate(751.5 961.677)" fill="none" stroke="#2558a8" stroke-width="1"/>
+    <path id="bx-hard-hat" d="M26.38,18.115a11.689,11.689,0,0,0-.231-2.322,10.945,10.945,0,0,0-.68-2.169A10.368,10.368,0,0,0,24.4,11.7a11.2,11.2,0,0,0-1.411-1.707,10.612,10.612,0,0,0-1.745-1.45,10.368,10.368,0,0,0-1.963-1.065l-.6-.244V5.283A1.283,1.283,0,0,0,17.4,4H12.265a1.283,1.283,0,0,0-1.283,1.283v1.95l-.642.244A10.368,10.368,0,0,0,8.416,8.542,10.611,10.611,0,0,0,6.709,9.954,10.611,10.611,0,0,0,5.259,11.7a10.368,10.368,0,0,0-1.065,1.963,11.548,11.548,0,0,0-.68,2.169,11.689,11.689,0,0,0-.231,2.284v3.849H2V24.53H27.663V21.964H26.38Zm-20.53,0a9.4,9.4,0,0,1,.18-1.809,8.52,8.52,0,0,1,.526-1.681A8.916,8.916,0,0,1,9.814,10.66a9.4,9.4,0,0,1,1.168-.654v8.109h2.566V6.566h2.566V18.115h2.566V10.005a10.431,10.431,0,0,1,1.168.654,9.1,9.1,0,0,1,1.283,1.1,8.264,8.264,0,0,1,1.091,1.283,7.7,7.7,0,0,1,.834,1.527,9.149,9.149,0,0,1,.526,1.681,9.406,9.406,0,0,1,.231,1.861v3.849H5.849Z" transform="translate(742.486 923.499)" fill="#2558a8"/>
+  </g>
+</svg>

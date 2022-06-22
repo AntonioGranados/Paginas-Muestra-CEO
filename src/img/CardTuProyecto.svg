@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="322" height="125" viewBox="0 0 322 125">
+  <defs>
+    <filter id="Bgg" x="0" y="0" width="322" height="125" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.361"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Grupo_16180" data-name="Grupo 16180" transform="translate(-902.5 -632.5)">
+    <g transform="matrix(1, 0, 0, 1, 902.5, 632.5)" filter="url(#Bgg)">
+      <rect id="Bgg-2" data-name="Bgg" width="303" height="106" rx="6" transform="translate(9.5 6.5)" fill="#f3f1f1" stroke="#f6f7f9" stroke-width="1"/>
+    </g>
+    <g id="Data" transform="translate(932 659)">
+      <text id="_27632" data-name="$27632" transform="translate(-4 19)" fill="#131523" font-size="28" font-family="Poppins-SemiBold, Poppins" font-weight="600" letter-spacing="0.004em"><tspan x="0" y="0">ver</tspan></text>
+      <text id="Sales" transform="translate(-4 38)" fill="#0058ff" font-size="16" font-family="Poppins-Regular, Poppins" letter-spacing="0.006em"><tspan x="0" y="0">Tutoría </tspan></text>
+      <text id="Te_mostramos_los_pasos_para_realizar_una_solicitud_" data-name="Te mostramos los pasos para realizar una solicitud " transform="translate(-4 44)" fill="#7e84a3" font-size="12" font-family="Roboto-Regular, Roboto"><tspan x="0" y="13">Te mostramos los pasos para </tspan><tspan x="0" y="29">realizar una solicitud </tspan></text>
+    </g>
+    <g id="ic-sessions" transform="translate(1133 661)">
+      <g id="Oval" fill="rgba(0,88,255,0.1)" stroke="rgba(0,88,255,0.1)" stroke-miterlimit="10" stroke-width="1">
+        <circle cx="31" cy="31" r="31" stroke="none"/>
+        <circle cx="31" cy="31" r="30.5" fill="none"/>
+      </g>
+      <path id="bxs-info-square" d="M3,4.385V26.549a1.385,1.385,0,0,0,1.385,1.385H26.549a1.385,1.385,0,0,0,1.385-1.385V4.385A1.385,1.385,0,0,0,26.549,3H4.385A1.385,1.385,0,0,0,3,4.385ZM14.082,8.541h2.771v2.771H14.082Zm0,5.541h2.771v8.312H14.082Z" transform="translate(15.532 15.533)" fill="#0058ff"/>
+    </g>
+  </g>
+</svg>

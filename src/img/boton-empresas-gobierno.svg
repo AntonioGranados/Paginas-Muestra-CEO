@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="271" height="48" viewBox="0 0 271 48">
+  <g id="Grupo_16358" data-name="Grupo 16358" transform="translate(-1004 -409)" style="isolation: isolate">
+    <g id="Rectángulo_6441" data-name="Rectángulo 6441" transform="translate(1004 409)" fill="#e4e4e4" stroke="#707070" stroke-width="1">
+      <rect width="271" height="48" rx="8" stroke="none"/>
+      <rect x="0.5" y="0.5" width="270" height="47" rx="7.5" fill="none"/>
+    </g>
+    <rect id="Rectángulo_6442" data-name="Rectángulo 6442" width="271" height="6" rx="3" transform="translate(1004 451)" fill="#aed036"/>
+    <text id="Empresas_y_Gobierno" data-name="Empresas y Gobierno" transform="translate(1140 440)" fill="#707070" font-size="26" font-family="Roboto-Regular, Roboto"><tspan x="-123.018" y="0">Empresas y Gobierno</tspan></text>
+  </g>
+</svg>

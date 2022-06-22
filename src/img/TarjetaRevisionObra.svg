@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="257" height="273" viewBox="0 0 257 273">
+  <defs>
+    <filter id="surface" x="0" y="0" width="257" height="273" filterUnits="userSpaceOnUse">
+      <feOffset dx="8" dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="12" result="blur"/>
+      <feFlood flood-color="#090e14" flood-opacity="0.4"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Grupo_16141" data-name="Grupo 16141" transform="translate(-696 -862)">
+    <g id="feature_00" transform="translate(723.86 890)">
+      <g transform="matrix(1, 0, 0, 1, -27.86, -28)" filter="url(#surface)">
+        <rect id="surface-2" data-name="surface" width="185" height="201" rx="12" transform="translate(28 28)" fill="#fff"/>
+      </g>
+    </g>
+    <text id="_solicitudes_convencionales" data-name=" solicitudes convencionales" transform="translate(759.5 899.03)" fill="#86878b" font-size="9" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="9" xml:space="preserve"> solicitudes convencionales</tspan></text>
+    <text id="Revisión_de_Obra" data-name="Revisión de Obra" transform="translate(780 918.03)" fill="#333542" font-size="18" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="19">Revisión de </tspan><tspan x="0" y="38">Obra</tspan></text>
+    <text id="Acompañamiento_en_la_ejecución_de_obra_eléctrica_con_el_fin_de_verificar_parámetros_técnicos_y_normativos_en_poder_tener_el_servicio_de_energía_eléctrica." data-name="Acompañamiento en la ejecución de obra eléctrica, con el fin de verificar parámetros técnicos y normativos en poder tener el servicio de energía eléctrica." transform="translate(733.486 966.678)" fill="#707178" font-size="13" font-family="Roboto-Regular, Roboto"><tspan x="17.731" y="14">Acompañamiento en la </tspan><tspan x="5.937" y="32">ejecución de obra eléctrica, </tspan><tspan x="24.961" y="50">con el fin de verificar </tspan><tspan x="20.251" y="68">parámetros técnicos y </tspan><tspan x="1.982" y="86">normativos en poder tener el </tspan><tspan x="2.236" y="104">servicio de energía eléctrica.</tspan></text>
+    <line id="Línea_77" data-name="Línea 77" x2="140.209" transform="translate(751.5 961.677)" fill="none" stroke="#2558a8" stroke-width="1"/>
+    <path id="bx-hard-hat" d="M26.38,18.115a11.689,11.689,0,0,0-.231-2.322,10.945,10.945,0,0,0-.68-2.169A10.368,10.368,0,0,0,24.4,11.7a11.2,11.2,0,0,0-1.411-1.707,10.612,10.612,0,0,0-1.745-1.45,10.368,10.368,0,0,0-1.963-1.065l-.6-.244V5.283A1.283,1.283,0,0,0,17.4,4H12.265a1.283,1.283,0,0,0-1.283,1.283v1.95l-.642.244A10.368,10.368,0,0,0,8.416,8.542,10.611,10.611,0,0,0,6.709,9.954,10.611,10.611,0,0,0,5.259,11.7a10.368,10.368,0,0,0-1.065,1.963,11.548,11.548,0,0,0-.68,2.169,11.689,11.689,0,0,0-.231,2.284v3.849H2V24.53H27.663V21.964H26.38Zm-20.53,0a9.4,9.4,0,0,1,.18-1.809,8.52,8.52,0,0,1,.526-1.681A8.916,8.916,0,0,1,9.814,10.66a9.4,9.4,0,0,1,1.168-.654v8.109h2.566V6.566h2.566V18.115h2.566V10.005a10.431,10.431,0,0,1,1.168.654,9.1,9.1,0,0,1,1.283,1.1,8.264,8.264,0,0,1,1.091,1.283,7.7,7.7,0,0,1,.834,1.527,9.149,9.149,0,0,1,.526,1.681,9.406,9.406,0,0,1,.231,1.861v3.849H5.849Z" transform="translate(742.486 923.499)" fill="#2558a8"/>
+  </g>
+</svg>
